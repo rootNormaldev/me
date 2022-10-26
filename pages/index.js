@@ -14,7 +14,7 @@ export default function Home() {
      <Grid css={{pt:'$5xl'}}>
      <Link href='https://www.facebook.com/profile.php?id=100085114515029'>
      <Image
-     src={"https://i.pinimg.com/736x/d5/68/46/d568464fb64538fb98919dd997309bc0.jpg"}
+     src={"https://png.pngtree.com/png-clipart/20201106/ourlarge/pngtree-cartoon-character-face-squinting-smile-expression-png-image_2387175.jpg"}
      objectFit='scale-down'
      width={320}
      height={320}
@@ -25,7 +25,7 @@ export default function Home() {
      <Spacer y={2}/>
      <Text css={{pl:'$2xl'}} className={styles.font_thai} b>root@normaldev</Text>
      <Spacer y={0}/>
-     <Text css={{pl:'$2xl'}} className={styles.font_thai} b>I miss you? 🤍</Text>
+     <Text css={{pl:'$2xl'}} className={styles.font_thai} b>ขอใส่ชุดวอมได้มุ้ยก๊าบๆ🤍</Text>
      </Grid>
      </Grid.Container>
      <Grid.Container justify='center'>
