@@ -25,7 +25,7 @@ export default function Home() {
      <Spacer y={2}/>
      <Text css={{pl:'$2xl'}} className={styles.font_thai} b>root@normaldev</Text>
      <Spacer y={0}/>
-     <Text css={{pl:'$2xl'}} className={styles.font_thai} b>ขอใส่ชุดวอมได้มุ้ยก๊าบๆ🤍</Text>
+     <Text css={{pl:'$2xl'}} className={styles.font_thai} b>ขอใส่ชุดวอมได้มุ้ยก๊าบ🤍</Text>
      </Grid>
      </Grid.Container>
      <Grid.Container justify='center'>
